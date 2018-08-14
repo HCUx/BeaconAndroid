@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="customColorBackground">#E64A19</color>
+    <color name="customColorButton">#FF9800</color>
+    <color name="profilColorBackground">#455A64</color>
+    <color name="profileColorButton">#B0AE71</color>
+    <color name="transparanColor">#00b0ae71</color>
+    <color name="semiWhite">#3dffffff</color>
+</resources>
